@@ -1,0 +1,57 @@
+{
+  "exploratory_gate_supported": {
+    "gradient_boosting_budget": false,
+    "logistic_budget": false
+  },
+  "checks": [
+    {
+      "seed": 42,
+      "candidate": "logistic_budget",
+      "beats_both_spc_recall_and_lead": false,
+      "within_test_false_alarm_budget": true,
+      "beats_constant_brier": true,
+      "control_recall_lower": true
+    },
+    {
+      "seed": 42,
+      "candidate": "gradient_boosting_budget",
+      "beats_both_spc_recall_and_lead": false,
+      "within_test_false_alarm_budget": true,
+      "beats_constant_brier": true,
+      "control_recall_lower": true
+    },
+    {
+      "seed": 43,
+      "candidate": "logistic_budget",
+      "beats_both_spc_recall_and_lead": true,
+      "within_test_false_alarm_budget": false,
+      "beats_constant_brier": true,
+      "control_recall_lower": true
+    },
+    {
+      "seed": 43,
+      "candidate": "gradient_boosting_budget",
+      "beats_both_spc_recall_and_lead": true,
+      "within_test_false_alarm_budget": false,
+      "beats_constant_brier": true,
+      "control_recall_lower": true
+    },
+    {
+      "seed": 44,
+      "candidate": "logistic_budget",
+      "beats_both_spc_recall_and_lead": false,
+      "within_test_false_alarm_budget": true,
+      "beats_constant_brier": true,
+      "control_recall_lower": true
+    },
+    {
+      "seed": 44,
+      "candidate": "gradient_boosting_budget",
+      "beats_both_spc_recall_and_lead": false,
+      "within_test_false_alarm_budget": false,
+      "beats_constant_brier": true,
+      "control_recall_lower": true
+    }
+  ],
+  "note": "Strict exploratory gate, not statistical significance or real-fab validation. Control check means lower recall, not a formal chance test."
+}

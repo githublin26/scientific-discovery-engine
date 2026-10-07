@@ -1,0 +1,8 @@
+{
+  "input_path": "C:\\Users\\split\\Project\\rare-signal-discovery-engine\\tests\\fixtures\\materials.csv",
+  "sha256": "5c0d5cf557b00efbe54ee96c591fd02eaead79b3a22c7e4a4db862a3db9a6bd6",
+  "recorded_at": "2026-10-07T03:23:18.991830+00:00",
+  "source": "user-provided; not authenticated by filename",
+  "energy_unit": "eV/atom",
+  "implementation": "v0.1"
+}

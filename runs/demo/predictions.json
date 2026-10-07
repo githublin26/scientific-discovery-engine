@@ -1,0 +1,34 @@
+[
+  {
+    "id": "synthetic-c",
+    "composition": "SiO2",
+    "formation_energy": -3.0,
+    "source_row": 4,
+    "score": 3.0,
+    "uncertainty": "uncalibrated"
+  },
+  {
+    "id": "synthetic-a",
+    "composition": "Li2O",
+    "formation_energy": -2.0,
+    "source_row": 2,
+    "score": 2.0,
+    "uncertainty": "uncalibrated"
+  },
+  {
+    "id": "synthetic-b",
+    "composition": "NaCl",
+    "formation_energy": -1.0,
+    "source_row": 3,
+    "score": 1.0,
+    "uncertainty": "uncalibrated"
+  },
+  {
+    "id": "synthetic-d",
+    "composition": "C",
+    "formation_energy": 0.0,
+    "source_row": 5,
+    "score": -0.0,
+    "uncertainty": "uncalibrated"
+  }
+]

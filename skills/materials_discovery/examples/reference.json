@@ -1,0 +1,14 @@
+{
+  "candidate_id": "000006a8c4",
+  "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+  "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+  "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+  "retrieved_values": {
+    "Composition": "Cs1S6Zr3",
+    "Reduced Formula": "Cs(ZrS2)3",
+    "Formation Energy Per Atom": -1.9058,
+    "Decomposition Energy Per Atom All": 0,
+    "Space Group": "C2/m"
+  },
+  "notes": "Manually pinned from the first raw CSV record inspected before implementation. This is a mapping regression reference, not independent DFT ground truth."
+}

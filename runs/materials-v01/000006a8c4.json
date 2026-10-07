@@ -1,0 +1,260 @@
+{
+  "status": "RECORD_RETRIEVED",
+  "candidate_id": "000006a8c4",
+  "formula": "Cs(ZrS2)3",
+  "raw_record": {
+    "": "0",
+    "Composition": "Cs1S6Zr3",
+    "MaterialId": "000006a8c4",
+    "Reduced Formula": "Cs(ZrS2)3",
+    "Elements": "['S', 'Zr', 'Cs']",
+    "NSites": "10",
+    "Volume": "302.9202",
+    "Density": "3.2834",
+    "Point Group": "2/m",
+    "Space Group": "C2/m",
+    "Space Group Number": "12",
+    "Crystal System": "monoclinic",
+    "Uncorrected Energy": "-67.3975",
+    "Corrected Energy": "-70.4155",
+    "Formation Energy Per Atom": "-1.9058",
+    "Decomposition Energy Per Atom": "-0.1625",
+    "Dimensionality Cheon": "intercalated ion",
+    "Bandgap": "0.0023",
+    "Is Train": "True",
+    "Decomposition Energy Per Atom All": "0.0",
+    "Decomposition Energy Per Atom Relative": "",
+    "Decomposition Energy Per Atom MP": "-0.1631",
+    "Decomposition Energy Per Atom MP OQMD": "-0.0734",
+    "Data Directory": "gs://crystal-design/output/borg/improved_wy_2/1e_3_med_0_common_84_nobal/Cs1S6Zr3/0"
+  },
+  "retrieved_values": {
+    "Composition": {
+      "value": "Cs1S6Zr3",
+      "raw_value": "Cs1S6Zr3",
+      "value_type": "retrieved",
+      "source_column": "Composition",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null
+    },
+    "Reduced Formula": {
+      "value": "Cs(ZrS2)3",
+      "raw_value": "Cs(ZrS2)3",
+      "value_type": "retrieved",
+      "source_column": "Reduced Formula",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null
+    },
+    "Formation Energy Per Atom": {
+      "value": -1.9058,
+      "raw_value": "-1.9058",
+      "value_type": "retrieved",
+      "source_column": "Formation Energy Per Atom",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null,
+      "unit": "eV/atom"
+    },
+    "Decomposition Energy Per Atom": {
+      "value": -0.1625,
+      "raw_value": "-0.1625",
+      "value_type": "retrieved",
+      "source_column": "Decomposition Energy Per Atom",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null,
+      "unit": "eV/atom"
+    },
+    "Decomposition Energy Per Atom All": {
+      "value": 0.0,
+      "raw_value": "0.0",
+      "value_type": "retrieved",
+      "source_column": "Decomposition Energy Per Atom All",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null,
+      "unit": "eV/atom"
+    },
+    "Decomposition Energy Per Atom Relative": {
+      "value": null,
+      "raw_value": "",
+      "value_type": "unknown",
+      "source_column": "Decomposition Energy Per Atom Relative",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": "Absent, empty or invalid; no value inferred.",
+      "unit": "eV/atom"
+    },
+    "Decomposition Energy Per Atom MP": {
+      "value": -0.1631,
+      "raw_value": "-0.1631",
+      "value_type": "retrieved",
+      "source_column": "Decomposition Energy Per Atom MP",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null,
+      "unit": "eV/atom"
+    },
+    "Decomposition Energy Per Atom MP OQMD": {
+      "value": -0.0734,
+      "raw_value": "-0.0734",
+      "value_type": "retrieved",
+      "source_column": "Decomposition Energy Per Atom MP OQMD",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null,
+      "unit": "eV/atom"
+    },
+    "NSites": {
+      "value": "10",
+      "raw_value": "10",
+      "value_type": "retrieved",
+      "source_column": "NSites",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null
+    },
+    "Space Group": {
+      "value": "C2/m",
+      "raw_value": "C2/m",
+      "value_type": "retrieved",
+      "source_column": "Space Group",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null
+    },
+    "Space Group Number": {
+      "value": "12",
+      "raw_value": "12",
+      "value_type": "retrieved",
+      "source_column": "Space Group Number",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null
+    },
+    "Crystal System": {
+      "value": "monoclinic",
+      "raw_value": "monoclinic",
+      "value_type": "retrieved",
+      "source_column": "Crystal System",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null
+    }
+  },
+  "derived_values": {
+    "decomposition_all_mev_per_atom": {
+      "value": 0.0,
+      "raw_value": null,
+      "value_type": "derived",
+      "source_column": "Decomposition Energy Per Atom All",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null,
+      "unit": "meV/atom",
+      "calculation_method": "source eV/atom * 1000",
+      "assumptions": [
+        "Unit conversion only; original reference hull is unchanged."
+      ]
+    },
+    "within_screening_tolerance": {
+      "value": true,
+      "raw_value": null,
+      "value_type": "derived",
+      "source_column": "Decomposition Energy Per Atom All",
+      "source_id": "000006a8c4",
+      "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+      "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+      "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+      "software_version": "materials-discovery-v0.1",
+      "notes": null,
+      "calculation_method": "published decomposition_all <= project screening tolerance",
+      "threshold_ev_per_atom": 0.001,
+      "assumptions": [
+        "Project tolerance, not synthesis feasibility or independent hull validation."
+      ]
+    }
+  },
+  "interpretation": {
+    "value_type": "inferred",
+    "value": "Published computational evidence only; no independent calculation or synthesis claim."
+  },
+  "unknown_fields": [
+    "Decomposition Energy Per Atom Relative",
+    "atomic_coordinates",
+    "independent_hull_energy",
+    "experimental_synthesis",
+    "calibrated_confidence"
+  ],
+  "provenance": {
+    "source_url": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+    "retrieved_at": "2026-10-07T03:24:52.971637+00:00",
+    "input_hash": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+    "snapshot_file": "data\\gnome.csv",
+    "processed_at": "2026-10-07T03:53:24.969274+00:00",
+    "software_version": "materials-discovery-v0.1",
+    "python_version": "3.12.10",
+    "source_status": "OFFICIAL_URL_IN_LOCAL_RETRIEVAL_MANIFEST",
+    "source_identifier": "000006a8c4",
+    "csv_record_number": 1
+  },
+  "limitations": [
+    "CSV metadata is not a retrieved CIF structure.",
+    "Distinct decomposition reference hulls are not interchangeable.",
+    "Formation energy alone does not establish stability.",
+    "Local manifest plus checksum provides traceability, not cryptographic source authentication.",
+    "This lookup is not blinded prediction; reference comparison tests mapping only."
+  ],
+  "validation": {
+    "status": "PASS_REFERENCE_MAPPING",
+    "checks": {
+      "Composition": true,
+      "Reduced Formula": true,
+      "Formation Energy Per Atom": true,
+      "Decomposition Energy Per Atom All": true,
+      "Space Group": true
+    },
+    "scope": "Pinned public-record regression only, not independent stability validation or predictive skill."
+  }
+}

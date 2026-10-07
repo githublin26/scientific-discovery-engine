@@ -1,0 +1,23 @@
+{
+  "seed": 44,
+  "runs_per_split": 120,
+  "signal_strength": 0.0,
+  "validation_false_alarm_budget": 1.0,
+  "horizon_lots": 12,
+  "split_seeds": {
+    "train": 440,
+    "calibration": 441,
+    "validation": 442,
+    "test": 443
+  },
+  "python": "3.12.10",
+  "numpy": "2.5.3",
+  "pandas": "2.3.3",
+  "sklearn": "1.9.1",
+  "sha256": {
+    "train": "bd5918b0d9ecb00a9d6e4404c886c091a61a4035c5888332fb304546a7269c3b",
+    "calibration": "cfb8315e2a50834ac03b067dd19fc92bb52131dfb160925be6e368cb4c855fc0",
+    "validation": "a302cd36f52fa0489a8719408053d539664aabb33bdcb9d11e6fbff0d5285570",
+    "test": "ceeba75105c86e9a4452f060eb5d18fdbb62c295ec828d9e6703cdbb52d3908f"
+  }
+}

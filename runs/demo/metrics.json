@@ -1,0 +1,31 @@
+{
+  "status": "WORKFLOW_COMPLETED_NOT_SCIENTIFIC_PASS",
+  "n": 4,
+  "target": "Decomposition Energy Per Atom All",
+  "threshold_ev_per_atom": 0.001,
+  "precision_at_k": 0.6666666666666666,
+  "k": 3,
+  "stable_prevalence": 0.5,
+  "single_class": false,
+  "prediction_sha256": "06115a13e07276f4e6076f8f73e75dc67ecbeee391efde34e2bed645158d3e9a",
+  "limitations": [
+    "Formation-energy baseline is not a stability predictor.",
+    "No independent hull or DFT calculation.",
+    "Selected stable datasets cannot demonstrate general discrimination.",
+    "No calibrated uncertainty or wet-lab evidence."
+  ],
+  "next_validation": [
+    {
+      "id": "synthetic-c",
+      "action": "Check structure, compatible reference hull and independent literature; human review required."
+    },
+    {
+      "id": "synthetic-a",
+      "action": "Check structure, compatible reference hull and independent literature; human review required."
+    },
+    {
+      "id": "synthetic-b",
+      "action": "Check structure, compatible reference hull and independent literature; human review required."
+    }
+  ]
+}

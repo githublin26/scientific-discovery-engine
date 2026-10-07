@@ -1,0 +1,15 @@
+{
+  "status": "UNKNOWN",
+  "candidate_id": "missing-id",
+  "reason": "MaterialId not found in snapshot",
+  "provenance": {
+    "source_url": null,
+    "retrieved_at": null,
+    "input_hash": "5c0d5cf557b00efbe54ee96c591fd02eaead79b3a22c7e4a4db862a3db9a6bd6",
+    "snapshot_file": "tests\\fixtures\\materials.csv",
+    "processed_at": "2026-10-07T03:54:27.022285+00:00",
+    "software_version": "materials-discovery-v0.1",
+    "python_version": "3.12.10",
+    "source_status": "UNKNOWN_USER_PROVIDED"
+  }
+}

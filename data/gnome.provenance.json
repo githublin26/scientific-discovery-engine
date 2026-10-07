@@ -1,0 +1,8 @@
+{
+  "input_path": "C:\\Users\\split\\Project\\rare-signal-discovery-engine\\data\\gnome.csv",
+  "sha256": "c37bffb9dd6c51d38d259a2d340ecf796194729f656d474828512390db1ff0c9",
+  "recorded_at": "2026-10-07T03:24:52.971637+00:00",
+  "source": "https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv",
+  "energy_unit": "eV/atom",
+  "implementation": "v0.1"
+}

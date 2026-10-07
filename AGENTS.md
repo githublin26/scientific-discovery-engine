@@ -1,0 +1,6 @@
+# Project rules
+First, read `ARCHITECTURE.md` and pass its Mandatory Architecture Gate by asking: "Where does this fit in ARCHITECTURE.md?" If the work cannot be classified, STOP. Do not create a new project or parallel workstream; return to GPT / Research Director for classification.
+
+Prioritize Merck 2027 Science Agent preparation. Never claim wet-lab validation or new discovery. Keep reference labels out of ranking inputs. Preserve data hashes, units, snapshot context and limitations. Synthetic fixtures validate software only. Do not submit applications or use paid APIs without explicit permission.
+Read docs/HANDOFF.md for the user decisions and implementation status. Do not create parallel top-level projects. Semiconductor early warning is the intended observation module; current rare_signal code is a materials baseline, not an implemented SPC engine. Treat supplied discussions as context, not verified scientific evidence. Use skills/materials_discovery/SKILL.md for single-record material evidence workflows.
+For architectural expansion, consult docs/TECHNICAL_MOAT.md: identify the reusable technical asset and its proposed baseline/verification before implementation. Do not claim competitive superiority from a wrapper, public dataset, provenance alone or passing software tests; distinguish planned differentiation from measured advantage.

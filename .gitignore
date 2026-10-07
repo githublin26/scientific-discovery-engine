@@ -1,0 +1,40 @@
+# Python caches, coverage, and build/install artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Downloaded datasets; retain compact provenance
+data/*
+!data/gnome.provenance.json
+
+# Generated SEARCH runs; retain compact durable evidence
+runs/*
+!runs/materials-v01/
+!runs/materials-v01/**
+!runs/demo/
+!runs/demo/**
+
+# Full OBSERVE execution outputs are externally archivable/regenerable
+modules/observe/rare-signal-lab-v0.1/results/
